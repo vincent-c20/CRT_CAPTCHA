@@ -61,11 +61,12 @@ Aucune dépendance.
 Clone le projet :
 
 ```bash
-git clone https://github.com/VOTRE_USERNAME/crt-captcha.git
-cd crt-captcha
+git clone
+https://github.com/vincent-c20/CRT_CAPTCHA.git
+cd CRT_CAPTCHA
 ```
 
-Ouvre simplement :
+ Plusieurs exemples avec des textes differents:
 
 ```bash
 index.html
